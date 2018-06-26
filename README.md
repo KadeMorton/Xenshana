@@ -48,11 +48,20 @@ This economic system supported the ideals of equality and group solidarity. As U
 
 ### Culture
 
-#### Language
+Ubuntuism runs through most of Xenshanan culture, collecting bits and pieces from different cultures as it goes to form a pan national culture that people can choose to identify with if they so choose.
 
-#### Rite of passage
+#### Totems
+The practice of totems started as part of Bantu culture and carried through to modern day Unhu. As Ubuntuism spread and borders began to break down with the slow dissolution of formalised government, totems spread abroad. Nowadays, many people have totems, which are an animal or potentially a body part like the heart or brain, that is associated with the family. Totems are passed from parents to children and are used as a tool to trace genealogy back to ancestors. People are said to take on aspects of the totem they inherit. 
 
-#### Greetings
+#### Rite of Passage
+In countries that practice Ubuntuism to some degree, it is often that children are not considered adults until they go through a rite of passage called Kutema Li. After the person has served one year in a self-organised syndicate, as recognised by others of the syndicate, the person then will undertake a ceremony in the traditional clothes of their culture and give praise to their ancestors. Depending on the person’s ancestry the contents of Kutema Li can differ. But once Kutema Li has been passed, the person is considered an adult.
+
+#### Languages
+There are many languages spoken on Xenshana, the trade language being Rozwi (note: a mixture of Shona, Ndebele, Xhosa and Zulu). The second most common language is Guānhuà (Mandarin) spoken by the Zhong Guo Dynasty and many other Asian countries. 
+Technology is important to the Rozwi, and the language has been turned into a computer programming language. You can program by talking in Rozwi and following some basic sentence structure to define things like function calls.
+
+#### Greeting
+The traditional greeting of the Unhu Collective, which has been taken up across Xenshana, is to cup ones hands and clap. It demonstrates gratitude for the other person and gives thanks to them.
 
 ### Technology
 
