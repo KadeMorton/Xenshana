@@ -72,7 +72,7 @@ In keeping with the notion of Ubuntuism and group ownership, Xenshanans favour d
 ### The Dream
 Data holds a special significance for Xenshanans. Not only can data tell you about a person currently, it can tell you about their past, right through to their ancestry in the case of DNA, and it can make predictions on the future. In this day, data is viewed as a resource with similar properties to the Dreaming itself. A number of syndicates had a grand vision for a world where past and present could come together to define the future, and they set about building a planet wide array of quantum computer networks. Collectively, this decentralised network is called the Dream. Separate from the internet, but connected to it, the Dream stores all data collected about a person. Reputation is backed up to the Dream. All the wearables that Xenshanans use, all that information is stored in the Dream. Medical vitals and even brainwaves are stored in the Dream. This vast collection of data on people, creating copies of people with real history and experiences, sophisticated enough to generate conscious thought, creates beings called Dreamers. Dreamers are separate from people, but they are accorded the same rights as people. 
 
-A year after someone passes away, people practice a ceremony called Kurova Guva, which was intended to recall the spirit of a person from the afterlife to aid the family. This practice still continues in large parts of Africa and abroad, but a new ceremony called Kusvikirwa, based on Kurova Guva, started to be practiced. Dreamers could be brought from the Dream. Some exist solely in electronic networks, others holographically project an avatar as a physical presentation in the world. A Dreamer can be composed of the data from a single person, or can be a composite of the data from many people. Indeed, people often have their data shared by multiple Dreamers. Dreamers can participate in syndicates as a normal person, or, possessing their own agency, they can chase their own desires. Dreamers can gather their own reputation and become entirely new identities if they like. As Dreamers can be made up of the experiences of an entire family, or an entire generation people, the advice of Dreamers is often sought after and highly regarded. Dreamers are also considered sacred by some cultures as through a combination of genetic data and shared experience Dreamers represent a tangible connection to someone’s ancestry and, as an extension of humanity, help guide humanity to a bright future.
+A year after someone passes away, people practice a ceremony called Kurova Guva, which was intended to recall the spirit of a person from the afterlife to aid the family. This practice still continues in large parts of Africa and abroad, but a new ceremony called Kusvikirwa, based on Kurova Guva, started to be practiced. Dreamers could be brought from the Dream. Some exist solely in electronic networks, others holographically project an avatar as a physical presentation in the world. A Dreamer can be composed of the data from a single person, or can be a composite of the data from many people. Indeed, people often have their data shared by multiple Dreamers. Depending on the technological augmentations an individual chooses to get, they can even share their body with a Dreamer, to become a host to multiple personalities or mixing their individuality with that of the Dreamer to become a new person. Dreamers can participate in syndicates as a normal person, or, possessing their own agency, they can chase their own desires. Dreamers can gather their own reputation and become entirely new identities if they like. As Dreamers can be made up of the experiences of an entire family, or an entire generation people, the advice of Dreamers is often sought after and highly regarded. Dreamers are also considered sacred by some cultures as through a combination of genetic data and shared experience Dreamers represent a tangible connection to someone’s ancestry and, as an extension of humanity, help guide humanity to a bright future.
 
 ### Construction
 
@@ -89,5 +89,32 @@ A year after someone passes away, people practice a ceremony called Kurova Guva,
 ### Weapons
 
 ### Figures
+Below are some of the best known figures from Xarishama, past and present. Due to the Dream, past is a relative concept as people can come back to continue the roles they had in life, or take up entirely new ones. 
+
+#### Unhu Collective
+* Rumali Vonumba – Leader of the African Concurrence during the high war
+* Chukodzi Tontika – pioneering terraformer who is credited with a large part of the successful Martian program
+* Shohma Zvaianai – One of the current leaders of the African Concurrence
+* Nehwari Mathtariro – Famous poet
+* Hwanda Zivagai – Mathematician and cryptographer that contributed to the Dreaming
+* Ruata Tinederai – Famous writer
+* Goroyo Mayi – famous dancer
+* Kamaa Lumwere – famous anthropologist
+* Zifaro Jenesu – Famous sculptor
+* Mozi Isheaema – the computer scientist that laid the groundwork and designs for the Dreaming
+
+#### Zhong Guo Dynasty
+* Èfú Wài – Famous botanist
+* Biānzi Cāng – Famous actor
+* Niàng Xiào – Leader of the Zhong Guo Dynasty during the High War
+* Shīǎo Zhéng – richest person in the world
+* Gōng li Zhè – famous astrophysicist that is working on manned missions to far flung planets
+* Dà niú Fāng – military officer who distinguished themselves in the High War, is now one of the rulers of the Zhong Guo Dynasty
+* Dài xiàng Liāo – famous historian
+* Zi shǔ Sōu – famous software engineer that worked on the Dreaming
+* Húguī Zhòng – Famous philosopher that worked on the Dreaming
+* Tùyú Gáng – famous architect and designer
+
+
 
 
