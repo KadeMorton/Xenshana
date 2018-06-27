@@ -123,6 +123,30 @@ Below are some of the best known figures from Xarishama, past and present. Due t
 * Húguī Zhòng – Famous philosopher that worked on the Dreaming
 * Tùyú Gáng – famous architect and designer
 
+### Calendar
+Below is a translation of the names Earth days and months to Xenshanan days and months
 
+#### Days
 
+* Monday – Muvhuro
+* Tuesday – Chipiri
+* Wednesday – Chitatu
+* Thursday – Chia
+* Friday – Chishanu
+* Saturday – Mugovera
+* Sunday – Svondo
 
+#### Months
+
+* January - Ndira
+* February - Kukadzi
+* March - Kurume
+* April - Kubvumbi
+* May - Chivabvu
+* June - Chikumi
+* July - Chikunguru
+* August - Nyamavhuvhu
+* September - Gunyana
+* October - Gumiguru
+* November - Mbudzi
+* December – Zvita
