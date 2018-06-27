@@ -24,10 +24,11 @@ Let’s discover this wonderland, together.
 This document is licensed under Creative Commons Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. 
 
 There are large sections I've not elaborated on in this document. For fleshing out this world, below are the basics:
-* Language is hard. We are creating a world were English isn't the trade language of the world and colonialism as we know it never happened. By rights we shouldn't even be using English at all, but we have to make this document accessable to a large population. 
-Shona words for old things, either mix Mandarin and Shona for new things or just use Mandarin
-If you want to come up with completely new words, it's often good to take a number of different words from a particular language, break them in half and make new words with the halves. see what sounds good. this way you have a new word and you keep the basic "sound" of the language
-When designing a country, look at the history and in the context of what is already known about Xenshana, how would this country's history be different?
+
+* Language is hard. We are creating a world were English isn't the trade language of the world and colonialism as we know it never happened. By rights we shouldn't even be using English at all, but the line has to be drawn somewhere for accessibility. When naming things, remember we are dealing with multiple cultures that don't speak English at all and just do your best.
+* The languages you should reference are Shona and Mandarin. As Africa is the dominant world power but Asia is the new up and coming power, try to use Shona words for old and historic things. Either mix Mandarin and Shona for newer things or just use Mandarin.
+* If you want to come up with completely new words so that you aren't copying from existing languages completely, there would be some natural divergence, it's often good to take a number of different words from a particular language, break them in half and make new words with the halves. See what sounds good. This way you have a new word and you keep the basic "sound" of the original language.
+* When designing a country, look at the history of that country and what is already known about Xenshana. Ask yourself how would this country's history be different given the new events outlined in this document?
 
 ### Myths and Legends
 
