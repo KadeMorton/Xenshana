@@ -78,9 +78,8 @@ A year after someone passes away, people practice a ceremony called Kurova Guva,
 
 ### Food production
 
-### Trade
-
-#### Currency
+### Currency
+As reputation slowly became worth more than money and many nations move towards post scarcity through a mixture of scientific breakthroughs and robotic automation, currency has started to fall away in many countries. The number of banks across Xenshana are dwindling, most outlets that still use and accept currency having switched over to distributed ledger systems for digital currency. Reputation in many places actually considered a digital currency in and of itself, rather than trading money for goods and services as surety the individual has contributed some form of work to society, people can often simply show their reputation to evidence the same thing. Others transfer goods directly via distributed ledgers as a form of universal basic income.
 
 ### Education
 
