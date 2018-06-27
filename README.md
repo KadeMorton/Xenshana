@@ -87,6 +87,9 @@ A year after someone passes away, people practice a ceremony called Kurova Guva,
 ### Transport
 
 ### Weapons
+After the High War between the African Concurrence and Zhong Guo Dynasty, an embargo on weapons research was put into effect globally. Known as the 1952 Embargo on Research into Technology of a Destructive Nature, or just the 1952 Embargo, it froze weapons tech in place so that any future war would, hopefully be less destructive than the last one. It also meant that some people had to find new fields to work in, boosting research and development of technology that the consensus believes to be of social value.
+
+### Research
 
 ### Figures
 Below are some of the best known figures from Xarishama, past and present. Due to the Dream, past is a relative concept as people can come back to continue the roles they had in life, or take up entirely new ones. 
