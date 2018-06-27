@@ -19,6 +19,16 @@ Journey to a new world and bring back powerful, resilient technology; explore ra
 
 Let’s discover this wonderland, together.
 
+### Using this document
+
+This document is licensed under Creative Commons Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. 
+
+There are large sections I've not elaborated on in this document. For fleshing out this world, below are the basics:
+* Language is hard. We are creating a world were English isn't the trade language of the world and colonialism as we know it never happened. By rights we shouldn't even be using English at all, but we have to make this document accessable to a large population. 
+Shona words for old things, either mix Mandarin and Shona for new things or just use Mandarin
+If you want to come up with completely new words, it's often good to take a number of different words from a particular language, break them in half and make new words with the halves. see what sounds good. this way you have a new word and you keep the basic "sound" of the language
+When designing a country, look at the history and in the context of what is already known about Xenshana, how would this country's history be different?
+
 ### Myths and Legends
 
 In the beginning there was the Great Spirit Dzivaguru, who created the Dreaming. The Dreaming is the time out of time, the everywhen and the infinite all. The past is Dreaming, the future is Dreaming, and the present is Dreaming. The Dreaming is all of creation, undifferentiated, infinite and absolute with no boundaries. The Dreaming is the fountain of all learned knowledge, ancestry and decendancy exist as one. At the centre of the dreaming, the great tree, Mujitan, connected the sky with its branches, the land with its trunk, and the depths of the world with its roots. 
@@ -37,7 +47,9 @@ On Earth, the first Punic War between Rome and Carthage ended in a Roman victory
 
 On Xenshana, the centre of power shifted to Southern Africa as trade enriched the Rozwi Empire, largely untouched by the Mfecane from 1814 to 1840 that engulfed the Southern Africa of Earth. The various southern African tribes of Xenshana were never driven north by colonial settlement. 
 
-In a reversal of Earth’s history, African nations, which were more developed than their European counterparts, took white slaves and colonised large sections of Europe, Asia and the Americas. As wealth and political power settled in the Rozwi Empire, their militarism fell away as the affluent class spread the ideology of Ubuntuism. The Rozwi Empire transitioned to an experimental form of governance called the Unhu Collective and started to reach out to all the nations of the world, popularising Ubuntuism. Slavery was outlawed and all former colonies of the Rozwi Empire were given self-rule. Ubuntuism became known by many different terms across the world but the fundamental principals were adopted in many different corners of the globe, becoming the dominant school of thought on Xenshana. The centre of world power now rests between the continents of Africa and Asia, being seen as the old and the new world, respectively. The global powers came to blows in what is known as the High War
+In a reversal of Earth’s history, African nations, which were more developed than their European counterparts, took white slaves and colonised large sections of Europe, Asia and the Americas. As wealth and political power settled in the Rozwi Empire, their militarism fell away as the affluent class spread the ideology of Ubuntuism. The Rozwi Empire transitioned to an experimental form of governance called the Unhu Collective and started to reach out to all the nations of the world, popularising Ubuntuism. Slavery was outlawed and all former colonies of the Rozwi Empire were given self-rule. Ubuntuism became known by many different terms across the world but the fundamental principals were adopted in many different corners of the globe, becoming the dominant school of thought on Xenshana. The centre of world power now rests between the continents of Africa and Asia, being seen as the old and the new world, respectively. 
+
+Africa has strong trade relations with most of the world as due to colonial history, which turned into cultural connections and similar political structures to the Unhu Collective being established in the colonies as they transitioned to self governance. The African Concurrence, the body that represents all African nations had a single world war with the Zhong Guo Dynasty, the dominant power in Asian that either co-opted other Asian countries of allowed them to freely associate with the Dynasty as allies for mutual self defense. The conflict known as the High War, taking place between 1921 and 1926. War on a large scale has not been seen since on Xenshana. 
 
 #### Ubuntuism
 The formalised ideology and economic system that grew from the Bantu philosophical concept of Hunu or Ubuntu is called Ubuntuism. The basic premise of the ideology is that an individual exist in the context of others, or it can be stated as I am because we are. From this premise of humanity existing in the context of others, of the group serving as something greater than the whole, springs many ideas on how the group should be treated, supported, and how the group best works. Ubuntuism draws on strands of socialist, communist, syndicalism and anarchist thought, and is a critique of capitalism. 
@@ -49,6 +61,24 @@ It quickly became apparent that some jobs very few people wanted to do, since th
 As Ubuntuism become embedded across many nations, the advances that many nations saw through coopoeration rather than competition became aparent. By completely opening up scientific research, technological breakthroughs began to be made faster. Soon many countries were turning the tide on evironmental degredation, growing enough food to feed their people and providing enough clean water. Coupled with automation, post scarcity became a reality across some parts of Xenshana.
 
 This economic system supported the ideals of equality and group solidarity. As Ubuntuism flourished the Unhu Collective began to evangelise the idea internationally, through economic treaties, film, literature, poetry, and their scientific and technological breakthroughs. Most of Xenshana today practice Ubuntuism to some extent. 
+
+### Major Locations and organisations
+
+#### Locations
+
+Below is a translation of major locations and organisations and organisations from Xenshana to Earth analogs
+* Unhu Collective - the new name of the Rozwi Empire, including areas of  Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Namibia, Botswana and Zambia.
+* Zhong Guo Dynasty - China, Korea, Mongolia, with the remaining nations of Asia either as allies of vassal states
+* The Arab Caliphates - The collective name for the nations that occupy the Middle East
+* Numic-Siouan Nations - The collective name for the nations that occupy the United States and Canada
+* The Triple Alliance - Central America
+* Inca Dominion - Part of South America
+* Tupi-Guaraní Federation - Part of South America
+* Europa - The collective name for the nations that occupy Europe
+* the Island Nations of Hawaiki - The collective name for the nations that occupy the Pacific
+
+#### Organisations
+The African Concurrance - The African Union
 
 ### Culture
 
