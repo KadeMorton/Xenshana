@@ -1,6 +1,9 @@
 # Xenshana
 
 ## Open world for MozFest
+* Submit stories set in Xenshana
+* Submit Xenshanan artwork
+* Engage with the theme in ways we haven't even thought of yet!
 
 ### Overview
 Xenshana is a thought experiment around decentralisation. The original idea was a Alice in Wonderland theme, but that was raised as potentially too Western a theme. In exploring Alice in Wonderland myself, I wasn't able to find a lot of influences that were not Western I could draw on to diversify the theme. I decided to create a new wonderland, based off the idea that Africa was the dominant power in the world from ancient to modern times. This was then coupled with the theme of decentralisation and the overall festival theme of data and you. The idea of Xenshana was born, a parallel dimension to Earth, and the theme for the decentralisation space is that people are travelling to Xenshana. 
@@ -23,9 +26,9 @@ Let’s discover this wonderland, together.
 
 ### Using this document
 
-This document is licensed under Creative Commons Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. 
+This document is licensed under Creative Commons Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. We want people in the decentralisation zone to engage with this theme, and connect with the overall concept of decentralisation in a way they maybe haven't before. We encourage people to use this document to write stories set in Xenshana, create artwork that represents Xenshana, and dive into this theme in ways we have never even thought of yet. We will display as much of it as we can in the zone during MozFest itself. Send your submissions to me at kademorton at protonmail dot com. 
 
-There are large sections I've not elaborated on in this document. For fleshing out this world, below are the basics:
+There are large sections I've not elaborated on in this document. For fleshing out this world (if you want), below are the basics:
 
 * Language is hard. We are creating a world were English isn't the trade language of the world and colonialism as we know it never happened. By rights we shouldn't even be using English at all, but the line has to be drawn somewhere for accessibility. When naming things, remember we are dealing with multiple cultures that don't speak English at all and just do your best.
 * The languages you should reference are Shona and Mandarin. As Africa is the dominant world power but Asia is the new up and coming power, try to use Shona words for old and historic things. Either mix Mandarin and Shona for newer things or just use Mandarin.
