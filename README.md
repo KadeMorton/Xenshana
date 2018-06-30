@@ -4,6 +4,8 @@
 * Submit stories set in Xenshana
 * Submit Xenshanan artwork
 * Engage with the theme in ways we haven't even thought of yet!
+* https://www.pinterest.com.au/kade2343/xenshana/
+* Email kademorton at protonmail dot com to contribute
 
 ### Overview
 Xenshana is a thought experiment around decentralisation. The original idea was a Alice in Wonderland theme, but that was raised as potentially too Western a theme. In exploring Alice in Wonderland myself, I wasn't able to find a lot of influences that were not Western I could draw on to diversify the theme. I decided to create a new wonderland, based off the idea that Africa was the dominant power in the world from ancient to modern times. This was then coupled with the theme of decentralisation and the overall festival theme of data and you. The idea of Xenshana was born, a parallel dimension to Earth, and the theme for the decentralisation space is that people are travelling to Xenshana. 
