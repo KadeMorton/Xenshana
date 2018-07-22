@@ -28,12 +28,12 @@ Let’s discover this wonderland, together.
 
 #### Xenshanans at MozFest
 
-There will hopefully be repesentatives from four groups at MozFest:
+There will hopefully be repesentatives from four syndicates at MozFest:
 
-* The Fènghuáng-Phoenix Coalition (FPC)
-* The Andromeda Initiative
-* Mabwe Prima 
-* Kudenga Praxis 
+* [The Fènghuáng-Phoenix Coalition (FPC)](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#the-f%C3%A8nghu%C3%A1ng-phoenix-coalition)
+* [The Andromeda Initiative](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#the-andromeda-initiative)
+* [Mabwe Prima](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#mabwe-prima) 
+* [Kudenga Praxis](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#kudenga-praxis) 
 
 ### Using this document
 
