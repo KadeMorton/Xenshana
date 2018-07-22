@@ -1,7 +1,7 @@
 # Xenshana
 
 ## Open world for MozFest
-* Submit stories set in Xenshana
+* Submit stories set in [Xenshana](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md)
 * Submit Xenshanan artwork
 * Engage with the theme in ways we haven't even thought of yet!
 * https://www.pinterest.com.au/kade2343/xenshana/
