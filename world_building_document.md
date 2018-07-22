@@ -98,7 +98,8 @@ Ubuntuism's stance on weapons is that you cannot build things with weaponry, the
 ## Research
 All research is open access along with data sets, in line with the Open Access Treaty, meaning all research can be accessed and debated. If anything is deemed to breach the 1952 Embargo people will often boycott and protest the company or research institute en mass. Closed research does go on in secret but it’s rare, as bringing anything to market or using the results in any way will clearly demonstrate a breach of the OA Treaty since the research and data sets won’t be publically available.
 
-## Groups
+## Syndicates 
+There are many self organised groups, called syndicates, on Xenshana. Below are some of the best known.
 
 ### Mabwe Prima
 With the slow dissolution of government across Xenshana, there is a need to coordinate between the different syndicates, to put groups in touch with each other, to show people the new way of decentralised governance and to preach its connection to Ubuntuism and other traditional value systems. Mabwe Prima is one of the groups that performs these functions. Well connected across Xenshana, delegates from Mabwe Prima can often be found abroad in the countries that still cling to outdated notions of ownership, money and central government, patiently advocating for a better way.
