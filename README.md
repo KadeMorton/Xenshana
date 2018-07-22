@@ -35,9 +35,26 @@ There will hopefully be repesentatives from four syndicates at MozFest:
 * [Mabwe Prima](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#mabwe-prima) 
 * [Kudenga Praxis](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#kudenga-praxis) 
 
-### Using this document
+#### The Decentralisation Zone at Mozfest
 
-This document is licensed under Creative Commons Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. We want people in the decentralisation zone to engage with this theme, and connect with the overall concept of decentralisation in a way they maybe haven't before. We encourage people to use this document to write stories set in Xenshana, create artwork that represents Xenshana, and dive into this theme in ways we have never even thought of yet. We will display as much of it as we can in the zone during MozFest itself. Send your submissions to me at kademorton at protonmail dot com. 
+##### Entering the Decentralisation Zone
+You will be given the ability to join one of the four Xenshanan syndicates. You will receive a card (while stocks last) from your syndicate, and you can have your face painted with the syndicate markings (while paint lasts). Your card can be stamped by completing milestones in the decentralisation zone (while ink lasts).
+
+##### The Musangano
+A place for meetings in between sessions, the Musangano will have chairs, a table and it's planned to have paper and crayons for colour in and drawing. 
+
+##### Milestones
+Coming Soon.
+
+##### Dzivaguru 
+[The great Rainbow Serpent of Xenshana](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#myths-and-legends) will make an apperaance in the Zone. Logistics are still being worked out.
+
+##### The Commons Tree
+Coming Soon.
+
+### Using the world building document
+
+Xenshana is licensed under Creative Commons Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. We want people in the decentralisation zone to engage with this theme, and connect with the overall concept of decentralisation in a way they maybe haven't before. We encourage people to use this document to write stories set in Xenshana, create artwork that represents Xenshana, and dive into this theme in ways we have never even thought of yet. We will display as much of it as we can in the zone during MozFest itself. Send your submissions to me at kademorton at protonmail dot com. 
 
 There are large sections I've not elaborated on in this document. For fleshing out this world (if you want), below are the basics:
 
