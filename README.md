@@ -26,6 +26,15 @@ Journey to a new world and bring back powerful, resilient technology; explore ra
 
 Let’s discover this wonderland, together.
 
+#### Xenshanans at MozFest
+
+There will hopefully be repesentatives from four groups at MozFest:
+
+* The Fènghuáng-Phoenix Coalition (FPC)
+* The Andromeda Initiative
+* Mabwe Prima 
+* Kudenga Praxis 
+
 ### Using this document
 
 This document is licensed under Creative Commons Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. We want people in the decentralisation zone to engage with this theme, and connect with the overall concept of decentralisation in a way they maybe haven't before. We encourage people to use this document to write stories set in Xenshana, create artwork that represents Xenshana, and dive into this theme in ways we have never even thought of yet. We will display as much of it as we can in the zone during MozFest itself. Send your submissions to me at kademorton at protonmail dot com. 
