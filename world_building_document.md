@@ -98,6 +98,20 @@ Ubuntuism's stance on weapons is that you cannot build things with weaponry, the
 ## Research
 All research is open access along with data sets, in line with the Open Access Treaty, meaning all research can be accessed and debated. If anything is deemed to breach the 1952 Embargo people will often boycott and protest the company or research institute en mass. Closed research does go on in secret but it’s rare, as bringing anything to market or using the results in any way will clearly demonstrate a breach of the OA Treaty since the research and data sets won’t be publically available.
 
+## Groups
+
+### Mabwe Prima
+With the slow dissolution of government across Xenshana, there is a need to coordinate between the different syndicates, to put groups in touch with each other, to show people the new way of decentralised governance and to preach its connection to Ubuntuism and other traditional value systems. Mabwe Prima is one of the groups that performs these functions. Well connected across Xenshana, delegates from Mabwe Prima can often be found abroad in the countries that still cling to outdated notions of ownership, money and central government, patiently advocating for a better way.
+
+### The Andromeda Initiative
+A group of scientists and technologists, the Andromeda Initiative is always trying to push boundaries of what can be created, and what uses their creations can be applied to. The Andromeda Initiative pioneered both the 1952 Embargo on Research into Technology of a Destructive Nature and the Open Access Treaty, and rightfully see themselves as one of the pillars that modern Xenshana rests on. Constantly prototyping new forms of technology, the Andromeda Initiative provide support to groups all across Xenshana.
+
+### Kudenga Praxis
+A loose alliance of idealists and radicals, Kugenda Praxis insist on secrecy and freedom while continually working towards decentralisation in all its facets. The cypher punks of Kugenda Praxis were the first to build the framework of the Dream that enjoyed mass adoption, making sure that the volumes of data being gathered could only be accessed by the individual concerned, who could grant and revoke permissions with ease. This success drives them to envisage what could be beyond the Dream, among other things, all the while refusing to compromise on their staunch ideals. 
+
+### The Fènghuáng-Phoenix Coalition
+Commonly known as the FPC or The Coalition, the syndicate is composed of Dreamers, those that share their bodies with Dreamers and those that work closely with the Dreamers. As well as offering their knowledge and wisdom to many other syndicates through delegates, the Fènghuáng-Phoenix Coalition also maintain a strong relationship with the different organisations maintaining the memory vault network and the Dream itself. The FPC see themselves as facilitators, connecting humanity to the Dream and its benefits.
+
 ## Figures
 Below are some of the best known figures from Xarishama, past and present. Due to the Dream, past is a relative concept as people can come back to continue the roles they had in life, or take up entirely new ones. 
 
