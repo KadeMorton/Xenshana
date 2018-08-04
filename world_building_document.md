@@ -109,7 +109,7 @@ With the slow dissolution of government across Xenshana, there is a need to coor
 
 ### The Andromeda Initiative
 * Primary colour: Blue
-* Secondary colour: Red
+* Secondary colour: Green
 
 A group of scientists and technologists, the Andromeda Initiative is always trying to push boundaries of what can be created, and what uses their creations can be applied to. The Andromeda Initiative pioneered both the 1952 Embargo on Research into Technology of a Destructive Nature and the Open Access Treaty, and rightfully see themselves as one of the pillars that modern Xenshana rests on. Constantly prototyping new forms of technology, the Andromeda Initiative provide support to groups all across Xenshana.
 
