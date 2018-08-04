@@ -103,7 +103,7 @@ There are many self organised groups, called syndicates, on Xenshana. Below are 
 
 ### Mabwe Prima
 * Primary colour: Green
-* Secondary colour: Black
+* Secondary colour: Yellow
 
 With the slow dissolution of government across Xenshana, there is a need to coordinate between the different syndicates, to put groups in touch with each other, to show people the new way of decentralised governance and to preach its connection to Ubuntuism and other traditional value systems. Mabwe Prima is one of the groups that performs these functions. Well connected across Xenshana, delegates from Mabwe Prima can often be found abroad in the countries that still cling to outdated notions of ownership, money and central government, patiently advocating for a better way.
 
@@ -114,7 +114,7 @@ With the slow dissolution of government across Xenshana, there is a need to coor
 A group of scientists and technologists, the Andromeda Initiative is always trying to push boundaries of what can be created, and what uses their creations can be applied to. The Andromeda Initiative pioneered both the 1952 Embargo on Research into Technology of a Destructive Nature and the Open Access Treaty, and rightfully see themselves as one of the pillars that modern Xenshana rests on. Constantly prototyping new forms of technology, the Andromeda Initiative provide support to groups all across Xenshana.
 
 ### Kudenga Praxis
-* Primary colour: Grey
+* Primary colour: Red
 * Secondary colour: Black
 
 A loose alliance of idealists and radicals, Kugenda Praxis insist on secrecy and freedom while continually working towards decentralisation in all its facets. The cipher punks of Kugenda Praxis were the first to build the framework of the Dream that enjoyed mass adoption, making sure that the volumes of data being gathered could only be accessed by the individual concerned, who could grant and revoke permissions with ease. This success drives them to envisage what could be beyond the Dream, among other things, all the while refusing to compromise on their staunch ideals. 
