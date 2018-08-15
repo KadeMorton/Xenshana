@@ -30,6 +30,8 @@ Let’s discover this wonderland, together.
 
 There will hopefully be repesentatives from four syndicates at MozFest:
 
+![alt tag](https://user-images.githubusercontent.com/24201238/44139126-43c28c4a-a0ca-11e8-95db-ed66311aede7.png)
+
 * [The Fènghuáng-Phoenix Coalition (FPC)](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#the-f%C3%A8nghu%C3%A1ng-phoenix-coalition)
 * [The Andromeda Initiative](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#the-andromeda-initiative)
 * [Mabwe Prima](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#mabwe-prima) 
