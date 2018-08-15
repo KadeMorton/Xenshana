@@ -101,6 +101,8 @@ All research is open access along with data sets, in line with the Open Access T
 ## Syndicates 
 There are many self organised groups, called syndicates, on Xenshana. Below are some of the best known.
 
+![alt tag](https://user-images.githubusercontent.com/24201238/44139126-43c28c4a-a0ca-11e8-95db-ed66311aede7.png)
+
 ### Mabwe Prima
 * Primary colour: Green
 * Secondary colour: Yellow
