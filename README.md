@@ -1,5 +1,7 @@
 # Xenshana
 
+Written by Kade Morton
+
 ## Open world for MozFest
 * Submit stories set in [Xenshana](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md)
 * Submit Xenshanan artwork
@@ -33,6 +35,8 @@ There will hopefully be repesentatives from four syndicates at MozFest:
 ![alt tag](https://user-images.githubusercontent.com/24201238/44139126-43c28c4a-a0ca-11e8-95db-ed66311aede7.png)
 
 ![alt tag](https://user-images.githubusercontent.com/24201238/44306461-6d369f00-a3e3-11e8-88f8-d2f617dc9e55.png)
+
+Illustrations by [Zachary Smith-Cameron](https://www.instagram.com/iamzacs/)
 
 * [The Fènghuáng-Phoenix Coalition (FPC)](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#the-f%C3%A8nghu%C3%A1ng-phoenix-coalition)
 * [The Andromeda Initiative](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#the-andromeda-initiative)
