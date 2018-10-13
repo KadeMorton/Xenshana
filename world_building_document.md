@@ -93,17 +93,19 @@ Most Xenshanans participate in delivering education at some point in their lives
 Started by an open hardware syndicate tinkering with a number of former weapon patents after the High War, vehicles were designed that could land on most any relatively flat surface that could fly at great speeds. The vehicles were called kuàisùs or kus for short, and the syndicate merged with another that specialised in building and maintaining memory vaults. With a quantum computing network, the new syndicate could automate the kus, creating a flying car network. As the designs for everything were open, other groups picked up the ku design until now, almost anyone anywhere in the world can signal a ku and be on the other side of the world, in the space of a few hours, for free.
 
 ## Weapons
-Ubuntuism's stance on weapons is that you cannot build things with weaponry, the group doesn’t become stronger through weaponry. After the High War between the African Concurrence and Zhong Guo Dynasty, an embargo on weapons research was put into effect globally. Known as the 1952 Embargo on Research into Technology of a Destructive Nature, or just the 1952 Embargo, it froze weapons tech in place so that any future war would, hopefully be less destructive than the last one. It also meant that some people had to find new fields to work in, boosting research and development of technology that the consensus believes to be of social value.
+Ubuntuism's stance on weapons is that you cannot build things with weaponry; the group doesn’t become stronger through weaponry. After the High War between the African Concurrence and Zhong Guo Dynasty, an embargo on weapons research was put into effect globally. Known as the 1952 Embargo on Research into Technology of a Destructive Nature, or just the 1952 Embargo, it froze weapons tech in place so that any future war would, hopefully be less destructive than the last one. It also meant that some people had to find new fields of work, boosting research and development of technology that the population believes to be of social value.
 
 ## Research
-All research is open access along with data sets, in line with the Open Access Treaty, meaning all research can be accessed and debated. If anything is deemed to breach the 1952 Embargo people will often boycott and protest the company or research institute en mass. Closed research does go on in secret but it’s rare, as bringing anything to market or using the results in any way will clearly demonstrate a breach of the OA Treaty since the research and data sets won’t be publically available.
+All research is open access along with data sets, in line with the Open Access Treaty, meaning all research can be accessed and debated. If anything is deemed to breach the 1952 Embargo people will often boycott and protest the company or research institute. Closed research does go on in secret but it’s rare. Bringing anything to the public or using the results in any way will clearly demonstrate a breach of the OA Treaty since the research and data sets won’t be publically available.
 
 ## Syndicates 
-There are many self organised groups, called syndicates, on Xenshana. Below are some of the best known.
+There are many self-organised groups, called syndicates, on Xenshana. Below are some of the best known.
 
 ![alt tag](https://user-images.githubusercontent.com/24201238/44139126-43c28c4a-a0ca-11e8-95db-ed66311aede7.png)
 
 ![alt tag](https://user-images.githubusercontent.com/24201238/44306461-6d369f00-a3e3-11e8-88f8-d2f617dc9e55.png)
+
+![alt tag](https://user-images.githubusercontent.com/24201238/46901903-7a21cb80-cf18-11e8-9804-d5a63c6e9c9a.JPG)
 
 ### Mabwe Prima
 * Primary colour: Green
