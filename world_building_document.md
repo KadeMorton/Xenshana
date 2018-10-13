@@ -111,13 +111,13 @@ There are many self-organised groups, called syndicates, on Xenshana. Below are 
 * Primary colour: Green
 * Secondary colour: Yellow
 
-With the slow dissolution of government across Xenshana, there is a need to coordinate between the different syndicates, to put groups in touch with each other, to show people the new way of decentralised governance and to preach its connection to Ubuntuism and other traditional value systems. Mabwe Prima is one of the groups that performs these functions. Well connected across Xenshana, delegates from Mabwe Prima can often be found abroad in the countries that still cling to outdated notions of ownership, money and central government, patiently advocating for a better way.
+With the slow dissolution of government across Xenshana, there is a need to coordinate between the different syndicates, to put groups in touch with each other, to show people the new way of decentralised governance and to preach its connection to Ubuntuism and other traditional value systems. Mabwe Prima is one of the groups that perform these functions. Well connected across Xenshana, delegates from Mabwe Prima can often be found abroad in the countries that still cling to outdated notions of ownership, money and central government, patiently advocating for a better way.
 
 ### The Andromeda Initiative
 * Primary colour: Blue
 * Secondary colour: Green
 
-A group of scientists and technologists, the Andromeda Initiative is always trying to push boundaries of what can be created, and what uses their creations can be applied to. The Andromeda Initiative pioneered both the 1952 Embargo on Research into Technology of a Destructive Nature and the Open Access Treaty, and rightfully see themselves as one of the pillars that modern Xenshana rests on. Constantly prototyping new forms of technology, the Andromeda Initiative provide support to groups all across Xenshana.
+A group of scientists and technologists, the Andromeda Initiative is always trying to push boundaries of what can be created, and what uses their creations can be applied to. The Andromeda Initiative pioneered both the 1952 Embargo on Research into Technology of a Destructive Nature and the Open Access Treaty. They rightfully see themselves as one of the pillars that modern Xenshana rests on. Constantly prototyping new forms of technology, the Andromeda Initiative provide support to groups all across Xenshana.
 
 ### Kudenga Praxis
 * Primary colour: Red
@@ -129,7 +129,7 @@ A loose alliance of idealists and radicals, Kugenda Praxis insist on secrecy and
 * Primary colour: Silver
 * Secondary colour: Blue
 
-Commonly known as the FPC or The Coalition, the syndicate is composed of Dreamers, those that share their bodies with Dreamers and those that work closely with the Dreamers. As well as offering their knowledge and wisdom to many other syndicates through delegates, the Fènghuáng-Phoenix Coalition also maintain a strong relationship with the different organisations maintaining the memory vault network and the Dream itself. The FPC see themselves as facilitators, connecting humanity to the Dream and its benefits.
+Commonly known as the FPC or The Coalition, the syndicate is composed of Dreamers, those that share their bodies with Dreamers and those that work closely with the Dreamers. As well as offering their knowledge and wisdom to many other syndicates through delegates, the Fènghuáng-Phoenix Coalition also maintain a strong relationship with the different organisations maintaining the memory vault network and the Dream itself. The FPC sees themselves as facilitators, connecting humanity to the Dream and its benefits.
 
 ## Figures
 Below are some of the best known figures from Xarishama, past and present. Due to the Dream, past is a relative concept as people can come back to continue the roles they had in life, or take up entirely new ones. 
