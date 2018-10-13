@@ -38,26 +38,26 @@ This economic system supported the ideals of equality and group solidarity. As U
 
 ### Locations
 
-Below is a translation of major locations and organisations and organisations from Xenshana to Earth analogs
-* Unhu Collective - the new name of the Rozwi Empire, including areas of  Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Namibia, Botswana and Zambia.
-* Zhong Guo Dynasty - China, Korea, Mongolia, with the remaining nations of Asia either as allies of vassal states
+Below is a translation of major locations and organisations and organisations from Xenshana to Earth analogues
+* Unhu Collective - the new name of the Rozvi Empire, including areas of  Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Namibia, Botswana and Zambia.
+* Zhong Guo Dynasty - China, Korea, and Mongolia, with the remaining nations of Asia either as allies of vassal states
 * The Arab Caliphates - The collective name for the nations that occupy the Middle East
 * Numic-Siouan Nations - The collective name for the nations that occupy the United States and Canada
 * The Triple Alliance - Central America
 * Inca Dominion - Part of South America
 * Tupi-Guaraní Federation - Part of South America
 * Europa - The collective name for the nations that occupy Europe
-* the Island Nations of Hawaiki - The collective name for the nations that occupy the Pacific
+* The Island Nations of Hawaiki - The collective name for the nations that occupy the Pacific
 
 ### Organisations
 The African Concurrance - The African Union
 
 ## Culture
 
-Ubuntuism runs through most of Xenshanan culture, collecting bits and pieces from different cultures as it goes to form a pan national culture that people can choose to identify with if they so choose.
+Ubuntuism collects bits and pieces from different cultures as it has spread to form a pan national culture that people can choose to identify with if they so desire.
 
 ### Totems
-The practice of totems started as part of Bantu culture and carried through to modern day Unhu. As Ubuntuism spread and borders began to break down with the slow dissolution of formalised government, totems spread abroad. Nowadays, many people have totems, which are an animal or potentially a body part like the heart or brain, that is associated with the family. Totems are passed from parents to children and are used as a tool to trace genealogy back to ancestors. People are said to take on aspects of the totem they inherit. 
+The practice of totems started as part of Bantu culture and carried through to the modern day. As Ubuntuism flourished and borders began to break down with the slow dissolution of formalised government totems spread abroad. Nowadays, many people have totems, which are an animal or potentially a body part like the heart or brain that is associated with the family. Totems are passed from parents to children and are used as a tool to trace genealogy back to ancestors. People are said to take on aspects of the totem they inherit. 
 
 ### Rite of Passage
 In countries that practice Ubuntuism to some degree, it is often that children are not considered adults until they go through a rite of passage called Kutema Li. After the person has served one year in a self-organised syndicate, as recognised by others of the syndicate, the person then will undertake a ceremony in the traditional clothes of their culture and give praise to their ancestors. Depending on the person’s ancestry the contents of Kutema Li can differ. But once Kutema Li has been passed, the person is considered an adult.
