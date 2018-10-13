@@ -105,7 +105,7 @@ There are many self-organised groups, called syndicates, on Xenshana. Below are 
 
 ![alt tag](https://user-images.githubusercontent.com/24201238/44306461-6d369f00-a3e3-11e8-88f8-d2f617dc9e55.png)
 
-![alt tag](https://user-images.githubusercontent.com/24201238/46901903-7a21cb80-cf18-11e8-9804-d5a63c6e9c9a.JPG)
+![alt tag](https://user-images.githubusercontent.com/24201238/46901929-e0a6e980-cf18-11e8-886a-f00e7b1f57e6.JPG)
 
 ### Mabwe Prima
 * Primary colour: Green
