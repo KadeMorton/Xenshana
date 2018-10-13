@@ -132,7 +132,7 @@ A loose alliance of idealists and radicals, Kugenda Praxis insist on secrecy and
 Commonly known as the FPC or The Coalition, the syndicate is composed of Dreamers, those that share their bodies with Dreamers and those that work closely with the Dreamers. As well as offering their knowledge and wisdom to many other syndicates through delegates, the Fènghuáng-Phoenix Coalition also maintain a strong relationship with the different organisations maintaining the memory vault network and the Dream itself. The FPC sees themselves as facilitators, connecting humanity to the Dream and its benefits.
 
 ## Figures
-Below are some of the best known figures from Xarishama, past and present. Due to the Dream, past is a relative concept as people can come back to continue the roles they had in life, or take up entirely new ones. 
+Below are some of the best known figures from Xenshana, past and present. Due to the Dream, past is a relative concept as people can come back to continue the roles they had in life, or take up entirely new ones. 
 
 ### Unhu Collective
 * Rumali Vonumba – Leader of the African Concurrence during the high war
@@ -151,7 +151,7 @@ Below are some of the best known figures from Xarishama, past and present. Due t
 * Biānzi Cāng – Famous actor
 * Niàng Xiào – Leader of the Zhong Guo Dynasty during the High War
 * Shīǎo Zhéng – richest person in the world
-* Gōng li Zhè – famous astrophysicist that is working on manned missions to far flung planets
+* Gōng li Zhè – famous astrophysicist working on manned missions to far flung planets
 * Dà niú Fāng – military officer who distinguished themselves in the High War, is now one of the rulers of the Zhong Guo Dynasty
 * Dài xiàng Liāo – famous historian
 * Zi shǔ Sōu – famous software engineer that worked on the Dreaming
