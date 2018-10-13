@@ -46,19 +46,16 @@ Illustrations by [Zachary Smith-Cameron](https://www.instagram.com/iamzacs/)
 #### The Decentralisation Zone at Mozfest
 
 ##### Entering the Decentralisation Zone
-You will be given the ability to join one of the four Xenshanan syndicates. You will receive a card (while stocks last) from your syndicate, and you can have your face painted with the syndicate markings (while paint lasts). Your card can be stamped by completing milestones in the decentralisation zone (while ink lasts).
+You will be given the ability to join one of the four Xenshanan syndicates. You will receive a card (while stocks last) from your syndicate, and you can have your face painted with the syndicate markings (while paint lasts).
+
+##### Your quest while in the Zone - Kutema Li
+To become a complete member of your syndicate, you must undergo Kutema Li. Attend multiple decentralisation sessions. Then, think about the questions on your card. When you are ready, seek out your syndicate representative and discuss with them your answers to the questions. By adding your wisdom to that of the collective, you will have become a full syndicate member.
 
 ##### The Musangano
 A place for meetings in between sessions, the Musangano will have chairs, a table and it's planned to have paper and crayons for colour in and drawing. 
 
-##### Milestones
-Coming Soon.
-
 ##### Dzivaguru 
 [The great Rainbow Serpent of Xenshana](https://github.com/KadeMorton/Xenshana/blob/master/world_building_document.md#myths-and-legends) will make an apperaance in the Zone. Logistics are still being worked out.
-
-##### The Commons Tree
-Coming Soon.
 
 ### Using the world building document
 
